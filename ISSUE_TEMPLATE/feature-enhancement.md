@@ -9,7 +9,7 @@ about: Use this template for feature and enhanmcement issues.
 ## Implementation details
 ## Related work
 
-- Lipi checks
+- Publishing checks
 - Localization
 - Internal docs
 - Comms
