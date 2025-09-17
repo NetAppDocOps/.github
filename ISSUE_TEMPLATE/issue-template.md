@@ -1,20 +1,8 @@
-# Template for a bug or regression
-## Current state
-## Background
-## Desired state
-## Implementation details
-## Related work
+---
+name: Feature or enhancement
+about: Use this template for feature and enhanmcement issues.
+---
 
-- Lipi checks
-- Localization
-- Internal docs
-- Comms
-
-## Scope
-## Test scenario
-## Reference
-
-# Template for a feature or enhancement
 ## User statement
 ## Background
 ## Proposed solution
