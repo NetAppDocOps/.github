@@ -1,0 +1,4 @@
+issue_templates:
+  - name: Feature or enhancement
+    description: Suggested headings for a feature or enhancement issue.
+    file: issue-template.md
