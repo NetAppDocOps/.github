@@ -1,0 +1,7 @@
+issue_templates:
+  - name: Bug or regression
+    description: Suggested headings for a bug or regression issue.
+    file: bug-regression.md
+  - name: Feature or enhancement
+    description: Suggested headings for a feature or enhancement issue.
+    file: feature-enhancement.md
