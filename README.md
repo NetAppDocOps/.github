@@ -1,2 +1,2 @@
 # .github
-NetAppDocOps deafult community files
+NetAppDocOps default community files
