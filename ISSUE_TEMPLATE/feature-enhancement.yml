@@ -1,0 +1,50 @@
+name: Feature or enhancement
+description: Suggest a new feature or enhancement.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## User statement
+        Who is this feature for? What problem does it solve?
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Background
+        Provide any relevant background information.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Proposed solution
+        Describe the proposed solution or feature.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Implementation details
+        Outline potential solutions or implementation details.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Related work
+        List any related work (e.g., publishing checks, localization, docs, comms).
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Scope
+        Define the scope of the issue.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Acceptance criteria
+        List the criteria that must be met for the feature to be considered complete.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Reference
+        Add any links or references relevant to the feature.
