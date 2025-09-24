@@ -1,0 +1,50 @@
+name: Bug or regression
+description: Report a bug or regression in the application.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Current state
+        Describe the current behavior of the application.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Background
+        Provide any relevant background information.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Desired state
+        Describe the behavior you expect.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Implementation details
+        Outline potential solutions or implementation details.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Related work
+        List any related work (e.g., publishing checks, localization, docs, comms).
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Scope
+        Define the scope of the issue.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Test scenario
+        Provide a test scenario to validate the fix.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Reference
+        Add any links or references relevant to the issue.
