@@ -1,6 +1,6 @@
 ---
 name: Feature or enhancement
-about: Use this template for feature and enhanmcement issues.
+about: Use this template for feature and enhancement issues.
 ---
 
 ## User statement
