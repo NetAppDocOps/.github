@@ -1,6 +1,6 @@
 ---
-name: Feature or enhancement
-about: Use this template for feature and enhanmcement issues.
+name: Bug or regression
+about: Use this template for bug and regression issues.
 ---
 
 ## Current state
