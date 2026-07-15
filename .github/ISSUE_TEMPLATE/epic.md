@@ -1,12 +1,7 @@
 ---
 name: Epic
-about: Use this template for defining an epic.
+about: Deprecated, do not use.
 labels: Epic
 ---
 
-## User statement
-## Business justification
-## Expected outcome
-## Scope
-## Requirements
-## Dependencies
+Deprecated, do not use. See initiative template for epic creation.
